@@ -132,7 +132,7 @@
   </p>
 
   <footer>
-    © 2025 Eau no Lulu — Politique de confidentialité conforme au RGPD (Règlement UE 2016/679).
+    © 2026 Eau no Lulu — Politique de confidentialité conforme au RGPD (Règlement UE 2016/679).
   </footer>
 
 </body>
